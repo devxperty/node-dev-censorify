@@ -1,7 +1,7 @@
 {
     "author":"taehyun.yoon",
-    "name":"censorify_taehyun",
-    "version":"0.1.1",
+    "name":"censorify_th",
+    "version":"0.1.2",
     "description":"Censors words out of text",
     "main":"censortext",
     "repository":{
@@ -18,5 +18,6 @@
     "dependencies":{},
     "engines":{
         "node":"*"
-    }
+    },
+    "license": "UNLICENSED"
 }
